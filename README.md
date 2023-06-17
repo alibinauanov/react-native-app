@@ -20,3 +20,7 @@ npx create-expo-app -e with-router
 * implement search & pagination functionality
 * create customAPI data fetching hooks
 
+## Where can you take your own API key?
+Link: https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch <br/>
+Code snippets -> X-RapidAPI-Key
+
