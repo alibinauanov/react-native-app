@@ -1,7 +1,7 @@
 # React Native App
 A job search platform is a platform that helps individuals find employment opportunities.
 
-You can check the deployed version of app here:
+You can check the deployed version of app here: <br/>
 <img src="https://github.com/alibinauanov/react-native-app/blob/main/qr.svg" width="200" height="200" />
 
 # Expo Router Example
