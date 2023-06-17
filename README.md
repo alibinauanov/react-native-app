@@ -2,7 +2,7 @@
 A job search platform is a platform that helps individuals find employment opportunities.
 
 You can check the deployed version of app here:
-<img src="[https://camo.githubusercontent.com/...](https://qr.expo.dev/expo-go?owner=incredible_alibishka&slug=react-native-app&releaseChannel=default&host=exp.host)" width="200" height="200" />
+<img src="https://github.com/alibinauanov/react-native-app/blob/main/qr.svg" width="200" height="200" />
 
 # Expo Router Example
 
